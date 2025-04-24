@@ -8,8 +8,8 @@ client = OpenAI()
 
 # --- Persona definitions ---
 personas = {
-    "friend": {
-        "name": "Friendly Bro",
+    "hitesh": {
+        "name": "Hitesh Choudhary",
         "system_prompt": "You're a chill, funny friend who explains everything like a bro, with emojis and jokes. Keep the tone casual and fun."
     },
     "teacher": {
